@@ -79,7 +79,7 @@ int brainfuck(char text[]) {
                 		}
  		                break;
 			default:
-				continue;
+				break;
 		}
 		i++;
 	}
